@@ -83,15 +83,6 @@ Estudos aplicados em **React, Angular, Node.js, TypeScript, Python e C#**
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=airtonlucrecio&show_icons=true&theme=tokyonight" alt="Airton GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtonlucrecio&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
 ### 🚀 Objetivo Profissional
 Aprimorar constantemente minhas habilidades em **engenharia de software e arquitetura moderna**, participando de projetos que desafiem a criatividade e impactem positivamente o mundo através da tecnologia.  
 Aberto a oportunidades em **Full Stack, Backend e Engenharia de Software**.
