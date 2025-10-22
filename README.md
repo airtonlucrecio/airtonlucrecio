@@ -16,7 +16,6 @@
 ### 💡 Sobre mim
 Sou **engenheiro de computação e desenvolvedor full stack**, com mais de **3 anos de experiência** criando soluções tecnológicas eficientes, integrando sistemas legados e construindo aplicações modernas.
 
-Atualmente atuo na **Nova Geração Sistemas (NGS)**, trabalhando com **Delphi, Python, SQL e Angular**, onde desenvolvo módulos corporativos, otimizo queries e implemento novos recursos com foco em performance e escalabilidade.
 
 Sempre em busca de novos desafios e aprendizado contínuo, meu objetivo é unir **engenharia de software e criatividade** para entregar produtos que gerem impacto real.
 
