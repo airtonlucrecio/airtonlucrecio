@@ -52,7 +52,7 @@ Sempre em busca de novos desafios e aprendizado contínuo, meu objetivo é unir 
 ### 💼 Experiência Profissional
 
 #### 🧩 Nova Geração Sistemas (NGS)
-**Programador Júnior** | 2023 — Atual  
+**Programador** | 2023 — 2025  
 Desenvolvimento e manutenção de sistemas corporativos com **Python, SQL, Delphi e Angular**.  
 Responsável por:
 - Implementação de novos módulos em Angular e TypeScript  
