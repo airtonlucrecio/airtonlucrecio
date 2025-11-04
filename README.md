@@ -86,8 +86,5 @@ Estudos aplicados em **React, Angular, Node.js, TypeScript, Python e C#**
 Aprimorar constantemente minhas habilidades em **engenharia de software e arquitetura moderna**, participando de projetos que desafiem a criatividade e impactem positivamente o mundo através da tecnologia.  
 Aberto a oportunidades em **Full Stack, Backend e Engenharia de Software**.
 
----
 
-<p align="center">
-  <em>"A tecnologia move o mundo, mas são as pessoas que o transformam."</em>
-</p>
+
