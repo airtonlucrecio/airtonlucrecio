@@ -14,7 +14,7 @@
 ---
 
 ### 💡 Sobre mim
-Sou **engenheiro de computação e desenvolvedor full stack**, com mais de **3 anos de experiência** criando soluções tecnológicas eficientes, integrando sistemas legados e construindo aplicações modernas.
+Sou **engenheiro de computação e desenvolvedor full stack**, com mais de **5 anos de experiência** criando soluções tecnológicas eficientes, integrando sistemas legados e construindo aplicações modernas.
 
 
 Sempre em busca de novos desafios e aprendizado contínuo, meu objetivo é unir **engenharia de software e criatividade** para entregar produtos que gerem impacto real.
@@ -68,7 +68,6 @@ Controle de frota, suporte técnico e gestão de dados de projetos.
 
 ### 🎓 Formação
 🎓 **Engenharia da Computação — PUCRS**  
-📅 9º período | Conclusão prevista: 2025  
 
 🎓 **Formação Desenvolvedor Full Stack — Rocketseat & Alura**  
 Estudos aplicados em **React, Angular, Node.js, TypeScript, Python e C#**  
